@@ -82,8 +82,7 @@ jupyter notebook notebooks/FurSight_CatsDogs.ipynb
 model.fit(train_ds_processed, epochs=10, validation_data=val_ds_processed)
 ## 🏆 Author
 
-**Mariyam Muzammil**  
-🎓 BS Computer and Information Science — PIEAS (Batch 2023–2027)  
+**Mariyam** 
 💡 Interests: Machine Learning | Deep Learning | Computer Vision  
 
  
