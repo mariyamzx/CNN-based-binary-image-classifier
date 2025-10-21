@@ -68,15 +68,15 @@ True: dog
    ```bash
    git clone https://github.com/<your-username>/FurSight-CNN.git
    cd FurSight-CNN
-Install dependencies:
+## Install dependencies:
 
 
 pip install -r requirements.txt
-Run the notebook:
+## Run the notebook:
 
 
 jupyter notebook notebooks/FurSight_CatsDogs.ipynb
-(Optional) Retrain model:
+## (Optional) Retrain model:
 
 
 model.fit(train_ds_processed, epochs=10, validation_data=val_ds_processed)
